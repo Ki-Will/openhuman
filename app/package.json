@@ -93,7 +93,7 @@
     "buffer": "^6.0.3",
     "cmdk": "^1.1.1",
     "debug": "^4.4.3",
-    "katex": "^0.16.47",
+    "katex": "^0.18.2",
     "lottie-react": "^2.4.1",
     "os-browserify": "^0.3.0",
     "process": "^0.11.10",
@@ -115,7 +115,7 @@
     "tauri-plugin-ptt-api": "workspace:*",
     "three": "^0.183.2",
     "util": "^0.12.5",
-    "zod": "4.3.6"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
